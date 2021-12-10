@@ -1,3 +1,3 @@
 # skiller-bean
 
-Software project for the Microsoft Game of Learners Clinic 2021
+Software project developed during the Microsoft Game of Learners Clinic 2021
